@@ -1,0 +1,60 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/renek/OneDrive/Desktop/University/Third Year/Second Sem/Software Quality/Project Deliverable 1/BinaryCalculator/target/classes;C:/Users/renek/OneDrive/Desktop/University/Third Year/Second Sem/Software Quality/Project Deliverable 1/BinaryCalculator/target/test-classes;C:/Users/renek/.m2/repository/junit/junit/4.11/junit-4.11.jar;C:/Users/renek/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar;C:/Users/renek/.m2/repository/joda-time/joda-time/2.10.11/joda-time-2.10.11.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/renek/OneDrive/Desktop/University/Third Year/Second Sem/Software Quality/Project Deliverable 1/BinaryCalculator/src/test/java;C:/Users/renek/OneDrive/Desktop/University/Third Year/Second Sem/Software Quality/Project Deliverable 1/BinaryCalculator/target/generated-test-sources/test-annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/renek/OneDrive/Desktop/University/Third Year/Second Sem/Software Quality/Project Deliverable 1/BinaryCalculator/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'binarycalculator 1.0.0 Test API'
+-link
+'../apidocs'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/renek/OneDrive/Desktop/University/Third Year/Second Sem/Software Quality/Project Deliverable 1/BinaryCalculator/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'binarycalculator 1.0.0 Test API'
+com.ontariotechu.sofe3980U
+'C:/Users/renek/OneDrive/Desktop/University/Third Year/Second Sem/Software Quality/Project Deliverable 1/BinaryCalculator/src/test/java/com/ontariotechu/sofe3980U/AppTest.java'
+'C:/Users/renek/OneDrive/Desktop/University/Third Year/Second Sem/Software Quality/Project Deliverable 1/BinaryCalculator/src/test/java/com/ontariotechu/sofe3980U/BinaryTest.java'
+C:\Users\renek\OneDrive\Desktop\University\Third Year\Second Sem\Software Quality\Project Deliverable 1\BinaryCalculator\target\classes = 1706583693713
+C:\Users\renek\OneDrive\Desktop\University\Third Year\Second Sem\Software Quality\Project Deliverable 1\BinaryCalculator\target\test-classes = 1706583693940
+C:\Users\renek\.m2\repository\junit\junit\4.11\junit-4.11.jar = 1352920880000
+C:\Users\renek\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar = 1341868082000
+C:\Users\renek\.m2\repository\joda-time\joda-time\2.10.11\joda-time-2.10.11.jar = 1632361861000
+C:\Users\renek\OneDrive\Desktop\University\Third Year\Second Sem\Software Quality\Project Deliverable 1\BinaryCalculator\src\test\java = 1706500113873
+C:\Users\renek\OneDrive\Desktop\University\Third Year\Second Sem\Software Quality\Project Deliverable 1\BinaryCalculator\target\generated-test-sources\test-annotations = 1706583693896
+C:\Users\renek\OneDrive\Desktop\University\Third Year\Second Sem\Software Quality\Project Deliverable 1\BinaryCalculator\target\site\testapidocs\allclasses-index.html = 1706583697387
+C:\Users\renek\OneDrive\Desktop\University\Third Year\Second Sem\Software Quality\Project Deliverable 1\BinaryCalculator\target\site\testapidocs\allpackages-index.html = 1706583697390
+C:\Users\renek\OneDrive\Desktop\University\Third Year\Second Sem\Software Quality\Project Deliverable 1\BinaryCalculator\target\site\testapidocs\copy.svg = 1706583697427
+C:\Users\renek\OneDrive\Desktop\University\Third Year\Second Sem\Software Quality\Project Deliverable 1\BinaryCalculator\target\site\testapidocs\element-list = 1706583697346
+C:\Users\renek\OneDrive\Desktop\University\Third Year\Second Sem\Software Quality\Project Deliverable 1\BinaryCalculator\target\site\testapidocs\help-doc.html = 1706583697422
+C:\Users\renek\OneDrive\Desktop\University\Third Year\Second Sem\Software Quality\Project Deliverable 1\BinaryCalculator\target\site\testapidocs\index-all.html = 1706583697410
+C:\Users\renek\OneDrive\Desktop\University\Third Year\Second Sem\Software Quality\Project Deliverable 1\BinaryCalculator\target\site\testapidocs\index.html = 1706583697415
+C:\Users\renek\OneDrive\Desktop\University\Third Year\Second Sem\Software Quality\Project Deliverable 1\BinaryCalculator\target\site\testapidocs\link.svg = 1706583697429
+C:\Users\renek\OneDrive\Desktop\University\Third Year\Second Sem\Software Quality\Project Deliverable 1\BinaryCalculator\target\site\testapidocs\member-search-index.js = 1706583697396
+C:\Users\renek\OneDrive\Desktop\University\Third Year\Second Sem\Software Quality\Project Deliverable 1\BinaryCalculator\target\site\testapidocs\module-search-index.js = 1706583697391
+C:\Users\renek\OneDrive\Desktop\University\Third Year\Second Sem\Software Quality\Project Deliverable 1\BinaryCalculator\target\site\testapidocs\overview-tree.html = 1706583697371
+C:\Users\renek\OneDrive\Desktop\University\Third Year\Second Sem\Software Quality\Project Deliverable 1\BinaryCalculator\target\site\testapidocs\package-search-index.js = 1706583697393
+C:\Users\renek\OneDrive\Desktop\University\Third Year\Second Sem\Software Quality\Project Deliverable 1\BinaryCalculator\target\site\testapidocs\script.js = 1706583697426
+C:\Users\renek\OneDrive\Desktop\University\Third Year\Second Sem\Software Quality\Project Deliverable 1\BinaryCalculator\target\site\testapidocs\search-page.js = 1706583697439
+C:\Users\renek\OneDrive\Desktop\University\Third Year\Second Sem\Software Quality\Project Deliverable 1\BinaryCalculator\target\site\testapidocs\search.html = 1706583697413
+C:\Users\renek\OneDrive\Desktop\University\Third Year\Second Sem\Software Quality\Project Deliverable 1\BinaryCalculator\target\site\testapidocs\search.js = 1706583697431
+C:\Users\renek\OneDrive\Desktop\University\Third Year\Second Sem\Software Quality\Project Deliverable 1\BinaryCalculator\target\site\testapidocs\stylesheet.css = 1706583697424
+C:\Users\renek\OneDrive\Desktop\University\Third Year\Second Sem\Software Quality\Project Deliverable 1\BinaryCalculator\target\site\testapidocs\tag-search-index.js = 1706583697397
+C:\Users\renek\OneDrive\Desktop\University\Third Year\Second Sem\Software Quality\Project Deliverable 1\BinaryCalculator\target\site\testapidocs\type-search-index.js = 1706583697394
